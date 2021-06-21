@@ -35,3 +35,19 @@
     object-fit: cover;
     
     }
+
+    .hide {
+        display: none;
+    }
+    .container{
+        margin: inherit;
+        width: inherit;
+    }
+    .content {
+        color: black;
+        text-emphasis: bold;
+        text-align: center;
+    }
+    #portfolio img {
+        width: 100%;
+    }
