@@ -68,3 +68,15 @@
         transform: scale(1.2);
         transition: all 0.3s ease;
     }
+
+    .card-1 {
+        position: absolute;
+        width: 100%;
+        min-height: 100%;
+        background: rgba(0, 0, 0, 0.582) transparent;
+        cursor: pointer;
+        display: none;
+        transition: all 0.5s ease;
+        color: white;
+        font-weight: bolder;
+    }
