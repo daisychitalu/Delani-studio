@@ -51,3 +51,20 @@
     #portfolio img {
         width: 100%;
     }
+
+    .card-deck {
+        display:flex;
+        justify-content: space-between;
+        align-items: flex-start;
+
+        padding: 5% 1%;
+    }
+    .card {
+        margin: 10px 0;
+        position: relative;
+        overflow: hidden;
+    }
+    .card:hover img {
+        transform: scale(1.2);
+        transition: all 0.3s ease;
+    }
