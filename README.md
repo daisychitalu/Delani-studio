@@ -8,6 +8,8 @@ To run the application in your terminal:
 * Clone Repository on Local Machine 
 * cd into Directory 
 * Open the index.html on the browser
+* ## Live link
+    [Deployed project can be accessed here](https://daisychitalu.github.io/Delani-studio/)
 ## Known Bugs
 None so far.
 ## Technologies Used
